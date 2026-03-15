@@ -1,99 +1,82 @@
-# Welcome, I'm Danilo Gonzalez 🧬
+# Hi, I'm Danilo Gonzalez 
 
-## 🔧 Tech Stack
+> Passionate about software development and contributing impactful solutions to the community.  
+I enjoy designing scalable, secure, and well-structured systems that solve real-world problems.
 
-<div align="center">
-  <!-- Fila 1 -->
-  <img src="https://skillicons.dev/icons?i=java" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-</div>
+## ⚙️ Tech Stack
 
-<br />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<div align="center">
-  <!-- Fila 2 -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" />
-</div>
+<table>
+<tr>
 
-<br />
+<td width="60%" valign="top">
 
-<div align="center">
-  <!-- Fila 3 -->
-  <img src="https://skillicons.dev/icons?i=linux" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=md" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" style="margin-right:12px;" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" />
-</div>
+## Simple systems solving complex problems.
+Engineer passionate about new technologies and the constant work of building better solutions.
 
+>"Somewhere, something incredible is waiting to be known."
 
+</td>
 
+<td width="40%" valign="top">
+
+<pre>
+ _____________________                              _____________________
+`-._:  .:'   `:::  .:\           |\__/|           /::  .:'   `:::  .:.-'
+    \      :          \          |:   |          /         :       /    
+      |  :   :: ::'  :   :: ::'  :   :: ::'      :: ::'  :   :: :|         
+  ██████╗  █████╗ ███╗   ██╗██╗██╗     ██╗   ██╗██╗  ██╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗████╗  ██║██║██║     ██║   ██║╚██╗██╔╝██╔════╝ ╚══███╔╝
+██║  ██║███████║██╔██╗ ██║██║██║     ██║   ██║ ╚███╔╝ ██║  ███╗  ███╔╝ 
+██████╔╝██║  ██║██║ ╚████║██║███████╗╚██████╔╝██╔╝ ██╗╚██████╔╝███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 ---
-## 🧠 About Me
-
-I’m passionate about crafting **secure, scalable, and clean software solutions** — from backend logic to frontend interface, deployment and beyond.
-
-💻 Full Stack Developer focused on:
-- 🔐 **Backend expertise** in Java, Spring Boot, Spring Security, and JWT authentication.
-- ⚛️ **Modern frontend** with React, Vite, TypeScript, TailwindCSS, HTML and CSS.
-- 🧠 Applied AI with YOLOv5 and OpenCV for computer vision projects.
-- 🧪 Clean architecture, SOLID principles, and agile methodologies.
-
-📦 I build well-designed REST APIs, manage PostgreSQL integrations, and deploy production-ready apps with Git, Docker, Netlify, and custom domains.
-
-🚀 My approach? Clean code. Documented logic. Real impact.
-
----
-
-
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DanilovTuring&theme=tokyonight&hide_border=true&card_width=450&exclude_days=Sun%2CSat" />
+  <img src="https://streak-stats.demolab.com?user=DaniluxGz&theme=tokyonight&hide_border=true&card_width=450&exclude_days=Sun%2CSat" />
 </p>
 
 ---
 
-## 🧩 Areas of Mastery
-
-✔ **Backend:** Java, Spring Boot, Spring Security, JWT, Node.js  
-✔ **Frontend:** React, Vite, TailwindCSS, TypeScript, HTML, CSS  
-✔ **Databases:** PostgreSQL, SQLite  
-✔ **DevOps & Deployment:** Git, GitHub, Docker, Netlify, DNS, Hosting  
-✔ **Computer Vision:** YOLOv5, OpenCV  
-✔ **Desktop Applications:** JavaFX  
-✔ **RESTful APIs:** End-to-end secure API design  
-✔ **IT Management & Support:** GLPI, Active Directory  
-
----
-
-
-
-## 📚 Latest Technical Highlights
-
-- 🧠 AI-based Object Detection using YOLOv5 + OpenCV  
-- 🔐 JWT-secured APIs in Spring Boot  
-- ⚛️ React + TailwindCSS dashboards with real-time data  
-- 🐳 Dockerized environments for cross-platform deployment  
-- 🌐 Full stack crypto dashboard: live prices, news, buy/sell logic  
-
----
-
-## 🔗 Links
+## Current Projects
 
 [![CryptoState](https://img.shields.io/badge/CryptoState-Live%20App-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cryptostate.lat)
 
@@ -102,10 +85,7 @@ Built with **React**, **Vite**, **TailwindCSS**, and powered by a modern backend
 Deployed on **Netlify** with a custom domain.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Danilo_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-gonzalez-64ab552a8)  
-[![GitHub](https://img.shields.io/badge/GitHub-DanilovTuring-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanilovTuring)
-
 ---
 
 ## 📬 Contact Me
-
 [![Email](https://img.shields.io/badge/danilogonzalezx77@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilogonzalezx77@gmail.com)
