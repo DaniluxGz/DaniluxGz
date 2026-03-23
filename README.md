@@ -84,8 +84,6 @@ Engineer passionate about new technologies and the constant work of building bet
 Built with **React**, **Vite**, **TailwindCSS**, and powered by a modern backend using **Spring Boot**, **JWT authentication**, and **PostgreSQL**.  
 Deployed on **Netlify** with a custom domain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Danilo_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-gonzalez-64ab552a8)  
----
 
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/danilogonzalezx77@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilogonzalezx77@gmail.com)
