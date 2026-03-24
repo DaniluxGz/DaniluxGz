@@ -79,11 +79,10 @@ Engineer passionate about new technologies and the constant work of building bet
 
 ## Current Projects
 
-[![CryptoState](https://img.shields.io/badge/CryptoState-Live%20App-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cryptostate.lat)
-
-**CryptoState** is a professional-grade cryptocurrency dashboard that delivers real-time price tracking, secure purchase flows, news integration, and visual analytics.  
-Built with **React**, **Vite**, **TailwindCSS**, and powered by a modern backend using **Spring Boot**, **JWT authentication**, and **PostgreSQL**.  
-Deployed on **Netlify** with a custom domain.
+[![mcp-sys](https://img.shields.io/badge/mcp--sys-v0.1.0-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/DaniluxGz/mcp-sys)
+**mcp-sys** is an MCP server written in 100% Rust that gives AI agents like Claude real-time visibility into your machine — ports, processes, and system stats. No copy-paste, no context switching. Just answers.  
+Built with **Rust**, **rmcp 0.16**, **sysinfo**, and **tokio**.  
+Available as a single binary via **GitHub Releases**.
 
 
 ## 📬 Contact Me
